@@ -1,26 +1,11 @@
-# MKS Backend Challenge
+# API Jacson
 
 ## Detalhes
-Trabalho com nodejs a 2 anos e este é meu segundo projeto utilizando nestjs
+Api desenvolvido com nestjs 
 
 ## 🚀 Iniciando
 
 Estas instruções permitirão que você obtenha uma cópia funcional do projeto em sua máquina local para fins de desenvolvimento e teste.
-
-.env
-```bash
-DB_HOST=""
-DB_PORT=5432
-DB_USERNAME=postgres
-DB_PASSWORD=postgres
-DB_DATABASE=postgres
-
-JWT_SECRET=00
-JWT_EXPIRES_IN=7d
-
-REDIS_PASSWORD=Redis2019!
-REDIS_HOST=""
-REDIS_PORT=6379
 ```
 Iniciando:
 ```bash
@@ -32,7 +17,7 @@ npm run start:dev
 ```
 
 ## Documentação da API
-154.12.242.99:3000/api.
+localhoost:3000/api.
 
 ## ✒️ Authors
 
